@@ -19,9 +19,11 @@ public class player {
     }
     void attack(){
         
+        
         System.out.println(name+" is attacking enemy ");
     }
     void defense(){
+        
         System.out.println(name+" defense");
     }
 }
